@@ -7,7 +7,8 @@ Dependencies: []
 Steps:
 - action: download_archive
   file_name: W2KSP4_EN.EXE
-  url: http://x3270.bgp.nu/download/specials/W2KSP4_EN.EXE
+  url: http://web.archive.org/web/20160129053851/http://download.microsoft.com/download/E/6/A/E6A04295-D2A8-40D0-A0C5-241BFECD095E/W2KSP4_EN.EXE 
+  # Udated url to faster mirror
   rename: w2ksp4_en.exe
   file_checksum: a4ef6c91d418418b287cefe31f958175
   file_size: 135477136
